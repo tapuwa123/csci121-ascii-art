@@ -20,7 +20,7 @@ const ART = [
    "credit_text": "Joan Stark",
    "credit_url": "https://www.asciiart.eu/buildings-and-places/monuments/statue-of-liberty"},
   {"title": "punch_buggy",
-   "filename": "punch_buggy",
+   "filename": "punch_buggy.txt",
    "creedit text": "Igbeard",
    "credit url": "https://www.asciiart.eu/vehicles/cars"},
    
