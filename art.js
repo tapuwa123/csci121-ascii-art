@@ -60,4 +60,8 @@ const ART = [
    "filename": "dice.txt",
    "credit_text": "Joan G Stark",
    "credit_url": "https://www.asciiart.eu/miscellaneous/dice"},
+  {"title": "Cartman",
+   "filename": "cartman.txt",
+   "credit_text": "Matzec",
+   "credit_url": "https://www.asciiart.eu/cartoons/south-park"},
 ];
