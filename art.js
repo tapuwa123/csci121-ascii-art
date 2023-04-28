@@ -45,7 +45,7 @@ const ART = [
    "credit_text": "Joan G Stark",
    "credit_url": "https://www.asciiart.eu/miscellaneous/dice"}
   {"title": "Moose",
-   "filename": "moose.txt"
+   "filename": "moose.txt",
    "credit_text": "prs",
-   "credit_url": "https://www.asciiart.eu/animals/moose"}
+   "credit_url": "https://www.asciiart.eu/animals/moose",}
 ];
