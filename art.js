@@ -68,9 +68,12 @@ const ART = [
    "filename": "cartman.txt",
    "credit_text": "Matzec",
    "credit_url": "https://www.asciiart.eu/cartoons/south-park"},
-     {"title": "knicks",
+  {"title": "knicks",
    "filename": "knicks.txt",
    "credit_text": "Brian Odom",
-   "credit_url": "https://www.asciiart.eu/sports-and-outdoors/nba-logos"}
-
+   "credit_url": "https://www.asciiart.eu/sports-and-outdoors/nba-logos"},
+  {"titiel": "Futurama",
+   "filename": "spaceship.txt",
+   "credit_text": "SSt",
+   "credit_url": "https://www.asciiart.eu/space/spaceships"},
 ];
