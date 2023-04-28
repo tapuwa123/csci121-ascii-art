@@ -47,5 +47,5 @@ const ART = [
   {"title": "Moose",
    "filename": "moose.txt",
    "credit_text": "prs",
-   "credit_url": "https://www.asciiart.eu/animals/moose",}
+   "credit_url": "https://www.asciiart.eu/animals/moose"},
 ];
