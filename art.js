@@ -12,6 +12,10 @@ const ART = [
    "credit_text":"hjw",
    "credit_url":"https://www.asciiart.eu/space/stars"
   },
+  {"title": "Frogs",
+   "filename": "frogs.txt",
+   "credit_text": "Veronica Karlsson",
+   "credit_url": "https://www.asciiart.eu/animals/frogs"},
   {"title": "rat",
    "filename": "rat.txt",
    "credit_text": "DNE",
